@@ -1,0 +1,91 @@
+@media all and (max-width: 1000px) {
+
+	.top-wrapper h1 {
+		font-size: 45px;
+		margin-left: 20px;
+	}
+
+	.top-wrapper h2 {
+		font-size: 20px;
+		margin-bottom: 30px;
+	}
+
+	.top-wrapper p {
+		font-size: 16px;
+		margin-bottom: 1px;
+		padding-left: 20px;
+		padding-right: 45px;
+	}
+
+	.container2 {
+		width: 600px;
+		padding-left: 13px;
+		padding-right: 10px;
+	}
+
+	.menu-icon {
+		display: none;
+	}
+
+}
+
+@media all and (max-width: 670px) {
+	.header-right {
+		display: none;
+	}
+
+	.menu-icon {
+		display: block;
+	}
+
+	.container2 {
+		width: 350px;
+		padding-left: 20px;
+		padding-right: 10px;
+	}
+
+	.btn {
+		width: 100%;
+	
+	}
+
+	.signup {
+		margin-top: 5px;
+	}
+
+	.facebook {
+		margin-top: 20px;
+		margin-left: 0px;
+	}
+
+	.twitter {
+		margin-top: 5x;
+	}
+
+	.top-wrapper {
+		text-align: center;
+	}
+
+	.top-wrapper h1 {
+		font-size: 31px;
+		line-height: 36px;
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 100%;
+		margin-left: 20px;
+	}
+
+	.top-wrapper h2 {
+		margin-left: 30px;
+	}
+
+	.top-wrapper p {
+		text-align: justify;
+		font-size: 14px;
+		line-height: 20px;
+		margin-left: 10px;
+		margin-right: 0px;
+		
+
+	}
+}
